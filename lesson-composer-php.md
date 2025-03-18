@@ -42,7 +42,7 @@ File `vendor/autoload.php` được Composer tạo ra sau khi cài đặt các t
 - Hỗ trợ tải lên và xử lý file Excel để nhập danh sách sinh viên.
 - Giao diện đơn giản và dễ sử dụng cho cả giảng viên và sinh viên.
 
-"Develop a student internship management website using PHP and MySQL.  
+# Develop a student internship management website using PHP and MySQL.  
 
 ### Features:  
 #### **Lecturer Account:**  
