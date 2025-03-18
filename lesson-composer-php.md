@@ -42,6 +42,28 @@ File `vendor/autoload.php` được Composer tạo ra sau khi cài đặt các t
 - Hỗ trợ tải lên và xử lý file Excel để nhập danh sách sinh viên.
 - Giao diện đơn giản và dễ sử dụng cho cả giảng viên và sinh viên.
 
+"Develop a student internship management website using PHP and MySQL.  
+
+### Features:  
+#### **Lecturer Account:**  
+- Create internship courses with course ID and name.  
+- Import student lists from Excel, including fields: Student ID, last name, first name, phone number, email, major, date of birth, and class ID.  
+- Confirm the student list after a successful import.  
+
+#### **Student Account:**  
+- Log in using their Student ID as the default username and password.  
+- Required to change the password on the first login for security.  
+
+### **Technical Requirements:**  
+- Programming Language: PHP.  
+- Database: MySQL.  
+- Supports Excel file upload and processing for student list imports.  
+- Simple and user-friendly interface for both lecturers and students.  
+
+The database configuration is provided in the `/config` directory."
+
+
+
 ### Tạo Dự Án Quản Lý Thực Tập
 1. **Tạo Cơ Sở Dữ Liệu MySQL:**
    ```sql
